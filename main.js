@@ -1,5 +1,5 @@
 const hello = () => {
-	console.log("Hello World! CC-01");
+	console.log("Hello World! CC-02");
 }
 
 hello();
